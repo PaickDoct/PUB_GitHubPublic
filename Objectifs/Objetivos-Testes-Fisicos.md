@@ -24,10 +24,12 @@ Aqui estão algumas referências para alguns testes físicos usados no futebol (
 | 4 | Velocidade máxima | **MSS / Vmax** | ≈ **31–32 km/h** | ≈ **32+ km/h** | N/A |
 | 5 | Explosão | **CMJ** | ≈ **34–42 cm** | ≈ **37–45 cm** | ≈ **38 cm Pro*** |
 | 6 | Resistência intermitente | **VIFT 30-15 IFT** | ≈ **18–18,5 km/h** | ≈ **19–19,5 km/h** | N/A |
-| 7 | Sprints repetidos | **RSA 6×30 m** | ≈ **26,8 s** | ≈ **26,2 s** | N/A |
+| 7 | Sprints repetidos | **RSA 6×30 m — tempo total**<sup>†</sup> | ≈ **26,8 s** (média ≈ 4,47 s/sprint) | ≈ **26,2 s** (média ≈ 4,37 s/sprint) | N/A |
 | 8 | Resistência específica | **Yo-Yo IR1** | ≈ **2 300–2 400 m** | ≈ **2 700 m** | N/A |
 
 \* Valor do grupo Senior de Torres-Martín et al.; esse grupo não representa uma norma internacional Pro.
+
+<sup>†</sup> O RSA e o sprint isolado de 30 m vêm de estudos e protocolos de cronometragem diferentes. As médias por sprint do RSA não devem ser comparadas diretamente aos valores da linha 3; para acompanhar um jogador, é necessário conservar exatamente o mesmo protocolo.
 
 ## Referências
 
